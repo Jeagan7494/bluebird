@@ -68,14 +68,16 @@ html, body {
 
 .navbar {
     background-color: transparent;
-   background: transparent;
-   border-color: transparent;
+    background: transparent;
+    border-color: transparent;
     border-radius: 0 !important;
     margin-bottom: 0px;
+}
 
 .nav-link {
     color: #22ABF1;
     font-size: .5rem;
+    font-family: 'Open Sans', sans-serif;
 }
 /*}
 

@@ -25,25 +25,43 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.11.0/bootstrap-social.css"/>
   <link rel="stylesheet" href="../css/main.css"/>
-  <link rel="image_src" href="../media/logoPic.jpg" />
+  <!-- <link rel="image_src" href="../media/logoPic.jpg" /> -->
   
 </head>
 <body ng-controller='mainController'>
 <div class="page-wrap">
-  <nav class="navbar navbar-default" role="navigation">
-    <div class="container-fluid">
+  <nav class="navbar navbar-transparent bg-faded">
+  
+  <ul class="nav navbar-nav">
+    <li class="nav-item active">
+      <a class="nav-link" href="#">Work <span class="sr-only">(current)</span></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Our Story</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">What We Do</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Contact</a>
+    </li>
+  </ul>
+  <a class="navbar-brand pull-xs-right" href="#"><img src="../media/bluebird-branding-logo-blue.png" border="0" alt="Bluebird Logo Blue"></a>
+</nav>
+  <!-- <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid"> -->
       <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
+     <!--  <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-      </div>
+      </div> -->
 
       <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse nav-collapse" id=".navbar-collapse">
+      <!-- <div class="collapse navbar-collapse nav-collapse" id=".navbar-collapse">
         <ul class="nav navbar-nav links">
           <li><a class="links" ui-sref="home">Home</a></li>
           <li><a class="links" ui-sref="about">About</a></li>
@@ -51,60 +69,21 @@
           <li><a class="links" ui-sref="locate">Locate</a></li>
           <li><a class="links" ui-sref="register">Register</a></li>
           <li><a class="links" ui-sref="connect">Connect</a></li>
-        </ul>
+        </ul> -->
 
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-  </nav>
+      <!-- </div>     /.navbar-collapse -->
+    <!-- </div>/.container-fluid -->
+  <!-- </nav> -->
   <!--========================TESTING====================================-->
-  
+
   <!--======================NG VIEW===========================-->
   <ui-view></ui-view>
 </div>
-<!-------------------FOOTER----------------------------------->
+<!-- -----------------FOOTER-----------------------------------> -->
 <footer class="site-footer">
   <div class="container">
     <div class="row">
-      <div class="footer-middle">
-
-
-        <div class="social-links">
-          <!--<h5 class="list-heading">CONNECT WITH US</h5>-->
-          <ul class="social">
-            <li>
-              <a href="https://twitter.com/Se7enFast" class="btn btn-social-icon btn-twitter btn-lg">
-                <span class="fa fa-twitter"></span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/groups/SE7ENFAST/" class="btn btn-social-icon btn-facebook btn-lg" href="">
-                <span class="fa fa-facebook"></span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/se7enfast/" class="btn btn-social-icon btn-instagram btn-lg">
-                <span class="fa fa-instagram"></span>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="counter-body">
-          <div id="clockdiv">
-            <div class="days">
-              <!--&lt;!&ndash;<span class="days"></span>&ndash;&gt;-->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="footer-middle">
-    <h4 class="counter-heading">Ramadan mubarak!</h4>
-  </div>
-  <div class="container-fluid copyrightDisclaimerDiv">
-    <div class="row">
-      <div class="copyright col-xs-12 col-md-6">All Contents Copyright &copy; 2015, SE7EN FAST.</div>
-      <div class="disclaimer-link col-xs-12 col-md-6"><a ui-sref="disclaimer" alt="The Legal Stuff" >The Legal Stuff</a></div>
+      
     </div>
   </div>
 

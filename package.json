@@ -1,0 +1,30 @@
+{
+  "name": "se7enfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseyEagan1/se7enFast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseyEagan1/se7enFast/issues"
+  },
+  "homepage": "https://github.com/JesseyEagan1/se7enFast#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongodb": "^2.1.2",
+    "mongoose": "^4.3.4",
+    "sendgrid": "^1.9.2"
+  },
+  "engines": {
+    "node": "4.0.0"
+  }
+}

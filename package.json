@@ -1,5 +1,5 @@
 {
-  "name": "se7enfast",
+  "name": "bluebird",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JesseyEagan1/se7enFast.git"
+    "url": "git+https://github.com/Jeagan7494/bluebird.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JesseyEagan1/se7enFast/issues"
+    "url": "https://github.com/Jeagan7494/bluebird/issues"
   },
-  "homepage": "https://github.com/JesseyEagan1/se7enFast#readme",
+  "homepage": "https://github.com/Jeagan7494/bluebird#readme",
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.3",

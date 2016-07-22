@@ -73,7 +73,11 @@ html, body {
     border-radius: 0 !important;
     margin-bottom: 0px;
 
+.nav-link {
+    color: #22ABF1;
+    font-size: 1rem;
 }
+/*}
 
 .links {
     color: white !important;
@@ -91,7 +95,7 @@ html, body {
 .navbar-collapse a.links {
     min-width: 110px;
     text-align: left;
-}
+}*/
 
 /*============================home body================================*/
 .thumbnail1 {

@@ -158,55 +158,6 @@ html, body {
 }
 
 /*============================How To Page===============================*/
-ul {
-    padding-left: 0 !important;
-}
-.how-to-list {
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
-    font-size: 4rem;
-    font-weight: 900;
-    color: #bcc747;
-    margin-bottom: 0px;
-    padding-top: 10%;
-    text-shadow: 1px 1px #000000;
-}
-
-.list-text {
-    font-family: 'Raleway', sans-serif;
-    font-size: 2rem;
-    font-weight: 700;
-    color: white;
-    text-shadow: 1px 1px #000000;
-}
-.list-text-small {
-    font-family: 'Raleway', sans-serif;
-    font-size: 1.5rem;
-    /*margin-bottom: 0;*/
-    line-height: 1.5rem;
-    font-weight: 700;
-    color: white;
-    text-shadow: 1px 1px #000000;
-}
-
-.link-text {
-    color: #a92159;
-    -webkit-text-stroke: .5px black;
-    text-shadow: 1px 1px #000000;
-}
-
-.list  {
-    margin-bottom: 10rem;
-}
-
-.list2 {
-    padding-bottom: 10rem;
-}
-
-.strikethrough-text {
-    text-decoration: line-through;
-    color: #908888 !important;
-}
 
 /*============================Register Page===============================*/
 
@@ -237,133 +188,14 @@ ul {
     text-shadow: 1px 1px #000000;
 }
 
-/*============================Construction Page===============================*/
-.iftarHeader {
-    font-family: 'Raleway', sans-serif;
-    font-size: 3rem;
-    font-weight: 700;
-    color: white;
-    text-shadow: 1px 1px #000000;
-}
 
-.locateBody {
-    margin-bottom: 50px;
-}
 
-.constructionBody {
-    padding: 10rem;
-}
+/*============================Contact Page===============================*/
 
-.constructionText {
-    color: #bcc747;
-    font-size: 6rem;
-    font-family: 'Raleway', sans-serif;
-    text-align: center;
-    text-shadow: 1px 1px #000000;
-}
-
-/*============================Connect Page===============================*/
-
-.contact-header {
-    padding-top: 5%;
-    color: #bcc747;
-    font-size: 2.5rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: bold;
-    text-align: center;
-    text-shadow: 1px 1px #000000;
-}
-
-.contact-label {
-    color: #bcc747;
-    font-size: 2rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: normal;
-    text-shadow: 1px 1px #000000;
-}
-
-.message-input {
-    padding-bottom: 5%;
-    padding-top: 1%;
-}
-
-.affiliates {
-    padding-top: 5%;
-}
-
-.affiliates2 {
-    list-style-type: none;
-}
-
-.affiliates2 li {
-    padding-bottom: 2rem;
-}
-
-.contact-page {
-    padding-bottom: 5%;
-}
-
-/* Form CSS*/
-.ccform {
-   margin: 0 auto;
-    width: 100%;
-}
-.ccfield-prepend{
-    display: flex;
-    margin-bottom:10px;
-    width:100%;
-}
-
-.ccfield-prepend1 {
-    display: flex;
-    width:100%;
-}
-.ccform-addon{
-    color:#f8ae45; 
-    float:left;
-    padding:8px;
-    width:8%;
-    background:#FFFFFF;
-    text-align:center;  
-}
-
-.ccformfield {
-    color:#000000; 
-    background:#FFFFFF;
-    border:none;
-    padding:15.5px;
-    display:block;
-    font-family: 'Lato',Arial,sans-serif;
-    font-size:14px;
-    width: 100%;
-}
-
-.ccformfield {
-    font-family: 'Lato',Arial,sans-serif;
-}
-.ccbtn{
-    display:block;
-    border:none;
-    background: #bcc747;
-    float:right;
-    color:#FFFFFF;
-    padding:10px;
-    cursor:pointer;
-    text-decoration:none;
-    font-weight:bold;
-}
-.ccbtn:hover{
-    background:#357570;
-
-}
-
-.formLabel {
-    color: #bcc747;
-    text-shadow: 1px 1px #000000;
 }
 /* ===================FOOTER==================== */
 
-.site-footer {
+/*.site-footer {
     background: #4ca8a1;
     height: 250px;
     background: linear-gradient(120deg, #357570, #3c8680, #449790, #4ca8a1) !important;
@@ -389,113 +221,19 @@ ul {
 
 .social-links {
     /*text-align: center;*/
-}
+/*}
 
 .social-links li {
     display: inline;
     padding-right:2rem;
-}
+}*/
+*/
 
-/*=========Count Down============*/
-.counter-body{
-    display: inline-block;
-    /*width: 100%;*/
-    background: #4ca8a1;
-    font-family: sans-serif;
-    font-weight: 100;
-    width: 25%;
-    background: linear-gradient(120deg, #3c8680, #449790) !important;
-    line-height: .75;
-    text-shadow: 1px 1px #000000;
-}
 
-.counter-heading{
-    color: #57102c;
-    font-weight: 100;
-    font-size: 25px;
-    font-family: 'Raleway', sans-serif;
-    padding-top: 1rem;
-    text-shadow: 1px 1px #000000;
-}
 
-#clockdiv{
-    font-family: sans-serif;
-    color: #57102c;
-    display: inline-block;
-    font-weight: 100;
-    text-align: center;
-    font-size: 30px;
-    height: 2rem;
-    text-shadow: 1px 1px #000000;
-    /*margin: 0;*/
-}
 
-.days {
-    width: 100% !important;
-    font-size: 6rem;
-    font-family: Raleway, sans-serif;
-    padding-top: 0;
-    text-shadow: 1px 1px #000000;
-    display: none;
-    /*padding: 15px;
-    border-radius: 3px;
-    background: black;
-    display: inline-block;*/
-}
 
-.counter-date {
-    color: #00EEEE;
-    /*font-weight: 100;*/
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    text-shadow: 1px 1px #000000;
-}
 
-.copyrightDisclaimerDiv {
-    padding-top: 2%;
-}
-
-.copyright {
-    text-align: left;
-    font-family: sans-serif;
-    color: #57102c;
-    /*margin-left: 2rem;*/
-}
-
-.disclaimer-link {
-    text-align: right;
-    font-family: sans-serif;
-    color: #57102c;
-}
-
-.disclaimer-link a {
-    color: #57102c;
-}
-
-/*Disclaimer Page*/
-
-.disclaimer h1 {
-    padding-top: 5%;
-    color: #bcc747;
-    font-family: 'Raleway', sans-serif;
-    font-weight: bold;
-    text-align: center;
-    text-shadow: 1px 1px #000000;
-}
-
-.disclaimer p {
-    color: #bcc747;
-    font-size: 1.5rem;
-    font-family: 'Raleway', sans-serif;
-    font-weight: normal;
-    text-align: justify;
-    padding-bottom: 2%;
-    text-shadow: 1px 1px #000000;
-}
-
-.disclaimer a {
-    color: #bcc747;
-}
 /*====================Media Queries==============================*/
 
 @media only screen and (max-width : 768px) {

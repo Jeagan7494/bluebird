@@ -1,4 +1,2 @@
-# se7enFast
-Beginning work on front end of se7enFast website.
+This is a dev environment for bluebird
 
-It can be viewed at www.se7enfast.com

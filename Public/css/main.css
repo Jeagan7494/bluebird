@@ -130,6 +130,10 @@ ul.nav {
     display: flex;
     flex-direction: column;
  }
+
+li.nav-item {
+    text-align: left;
+} 
 }
 
 /*Medium devices (tablets, less than 62em)*/

@@ -75,9 +75,12 @@ html, body {
 }
 
 .nav-link {
-    color: #22ABF1;
+    color: #00AEEF;
     font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar-brand {
+    color: #00AEEF;
 }
 /*}
 

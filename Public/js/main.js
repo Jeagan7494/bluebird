@@ -1,7 +1,7 @@
-angular.module('se7enfastApp', ['ui.router']);
+angular.module('bluebirdApp', ['ui.router']);
 
 
-angular.module('se7enfastApp')
+angular.module('bluebirdApp')
     .config(['$stateProvider',
         function($stateProvider){
 
@@ -51,7 +51,7 @@ angular.module('se7enfastApp')
 
 
 
-angular.module('se7enfastApp').controller('mainController', ['$scope', '$http', function($scope, $http) {
+angular.module('bluebirdApp').controller('mainController', ['$scope', '$http', function($scope, $http) {
     console.log('mainController loaded');
 
     $scope.form = {};
@@ -79,58 +79,4 @@ angular.module('se7enfastApp').controller('mainController', ['$scope', '$http', 
 
 
 //===================================================================//
-    function getTimeRemaining(endtime) {
-        var t = Date.parse(endtime) - Date.parse(new Date());
-        var days = Math.floor(t / (1000 * 60 * 60 * 24));
-        return {
-            'total': t,
-            'days': days,
-        };
-    }
-
-    function initializeClock(id, endtime) {
-        var clock = document.getElementById(id);
-        var daysSpan = clock.querySelector('.days');
-
-        function updateClock() {
-            var t = getTimeRemaining(endtime);
-
-            daysSpan.innerHTML = t.days;
-
-            if (t.total <= 0) {
-                clearInterval(timeinterval);
-            }
-        }
-
-        updateClock();
-        var timeinterval = setInterval(updateClock, 1000);
-    }
-
-
-
-    var deadline = new Date('06/07/2016');
-    initializeClock('clockdiv', deadline);
-
-}]);
-
-//$scope.contactForm = function() {
-//    console.log('bjkguilglyi', $scope.contactForm)
-//    $http({
-//        method  : 'post',
-//        url     : '/api/contact',
-//        data    : $scope.contactForm
-//    }).then(function(returnData) {
-//        if (returnData.data.success) {
-//            window.location.href="/contactSuccess";
-//        }
-//        else {
-//            console.log(returnData.data.error)
-//        }
-//        ;
-//
-//    }, function(err){
-//        console.log(err);
-//    }
-//    })
-//};
-
+   

@@ -51,31 +51,7 @@ angular.module('bluebirdApp')
 
 
 
-angular.module('bluebirdApp').controller('mainController', ['$scope', '$http', function($scope, $http) {
-    console.log('mainController loaded');
 
-    $scope.form = {};
-
-    $scope.formSubmit = function() {
-        console.log($scope.form)
-        //$http.post('/submit', $scope.form)
-        $http({
-            method  : 'post',
-            url     : '/api/register',
-            data    : $scope.form
-        })
-            // .then(function(returnData) {
-        //    if (returnData.data.success) {
-        //        window.location.href = "/contactSuccess";
-        //    }
-        //}
-    };
-
-    $(document).ready(function () {
-        $(".navbar-nav li a").click(function(event) {
-            $(".navbar-collapse").collapse('hide');
-        });
-    });
 
 
 //===================================================================//

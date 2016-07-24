@@ -140,6 +140,9 @@ html, body {
 .margin {
     margin-left: 31px !important;
 }
+.negMargin {
+    margin-left: -31px;
+}
 
 /*============================home body================================
 .thumbnail1 {
@@ -210,8 +213,9 @@ ul.nav {
     font-size: .75rem;
 }
 
-.smScreenTpLineMargin {
-    padding-left: 31px;
+.smScreenBlogContact {
+    
+    padding:  40px 0 40px 31px;
 }
 
 }

@@ -95,7 +95,11 @@ html, body {
     margin-left: 31px !important;
 }*/
 
+<<<<<<< HEAD
 /*.col-xs-12.zeroPadding {
+=======
+.col-xs-12.zeroPadding {
+>>>>>>> parent of 1dc9937... footer margin
         padding-left: -.9375rem !important;
 
 }

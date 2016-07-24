@@ -89,7 +89,7 @@ html, body {
 /*Footer*/
 
 .footerMargin {
-    margin-left: 16px;
+    margin-left: 16px !important;
 }
 
 .footerLink1 {

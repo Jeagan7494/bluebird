@@ -96,7 +96,7 @@ html, body {
 }*/
 
 .col-xs-12.zeroPadding {
-        padding-left: -.9375rem !important;
+        padding-left: 0 !important;
 
 }
 

@@ -95,7 +95,7 @@ html, body {
     margin-left: 31px !important;
 }*/
 
-.zeroPadding {
+.col-xs-12.zeroPadding {
     padding-left: 0 !important;
 }
 

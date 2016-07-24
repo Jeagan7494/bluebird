@@ -95,25 +95,19 @@ html, body {
     margin-left: 31px !important;
 }*/
 
-<<<<<<< HEAD
-/*.col-xs-12.zeroPadding {
-=======
 .col-xs-12.zeroPadding {
->>>>>>> parent of 1dc9937... footer margin
         padding-left: -.9375rem !important;
 
 }
-*/
-
 
 .footerLink1 {
     /*margin-right: 3%;*/
-    /*margin-left: 2.5% !important;*/
+    margin-left: 2.5% !important;
 
 }
 
 .footerLink2 {
-    /*padding-left: 2.5%;*/
+    padding-left: 2.5%;
 }
 
 .footerTextBlue {
@@ -121,7 +115,7 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 0px;
-    /*padding-left: 2.5%;*/
+    padding-left: 2.5%;
 }
 
 .footerText {
@@ -129,15 +123,15 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 0px;
-    /*padding-left: 2.5%;*/
+    padding-left: 2.5%;
 }
 
 .footerCopyright {
     color: #000;
     font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
-    /*padding-left: 3%;*/
-    /*margin-left: 2.5%;*/
+    padding-left: 3%;
+    margin-left: 2.5%;
 }
 
 /*============================home body================================

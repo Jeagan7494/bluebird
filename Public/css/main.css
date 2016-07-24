@@ -60,7 +60,6 @@ html, body {
     list-style-type: none;
     display: inline;
     text-align: center;
-
 }
 .navbar-toggler {
     color: #00AEEF;
@@ -85,11 +84,23 @@ html, body {
     color: #00AEEF;
     float: right;
 }
-/*}
+}
 
+/*Footer*/
 
+.footerText {
+    color: #000;
+    font-size: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
 
-/*============================home body================================*/
+.footerText {
+    color: #000;
+    font-size: .5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*============================home body================================
 .thumbnail1 {
     display: inline-block;
     max-height: 250px;
@@ -131,11 +142,6 @@ ul.nav {
     display: flex;
     flex-direction: column;
  }
-
-li.nav-item {
-
-} 
-}
 
 /*Medium devices (tablets, less than 62em)*/
 @media (max-width: 61.9em) { ... }

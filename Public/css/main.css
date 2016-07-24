@@ -95,6 +95,10 @@ html, body {
     margin-left: 31px !important;
 }*/
 
+.footerMargin {
+    padding-left: 2.5%;
+}
+
 .footerLink1 {
     /*margin-right: 3%;*/
     padding-left: 2.5%;

@@ -96,14 +96,14 @@ html, body {
 }*/
 
 a.footerLink1 {
-    margin-left: 36px;
+    margin-left: 36px !important;
 }
 
-/*.footerLink1 {
-    margin-right: 3%;
+.footerLink1 {
+    /*margin-right: 3%;*/
     margin-left: 2.5% !important;
 
-}*/
+}
 
 .footerLink2 {
     padding-left: 2.5%;

@@ -101,8 +101,7 @@ html, body {
 }*/
 
 .footerLink1 {
-    /*margin-right: 3%;*/
-    /*margin-left: 6.5% !important;*/
+    padding-right: 2%
 
 }
 .social-icon {
@@ -111,7 +110,7 @@ html, body {
 }
 
 .footerLink2 {
-    padding-left: 2.5%;
+    /*padding-left: 2.5%;*/
     line-height: 40px;
 }
 
@@ -120,7 +119,7 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 0px;
-    padding-left: 2.5%;
+    padding-left: 31px;
 }
 
 .footerText {
@@ -128,14 +127,18 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 0px;
-    padding-left: 2.5%;
+    padding-left: 31px;
 }
 
 .footerCopyright {
     color: #000;
     font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
-    margin-left: 2.5%;
+    margin-left: 31px;
+}
+
+.margin {
+    margin-left: 31px !important;
 }
 
 /*============================home body================================

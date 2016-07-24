@@ -92,7 +92,7 @@ html, body {
     margin-left: 2% !important;
 }*/
 .extraMargin {
-    margin-left: 31px;
+    margin-left: 31px !important;
 }
 
 .footerLink1 {

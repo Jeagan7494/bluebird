@@ -143,6 +143,9 @@ html, body {
 .negMargin {
     margin-left: -31px;
 }
+.paddingBottom {
+    padding-bottom: 30px;
+}
 
 /*============================home body================================
 .thumbnail1 {

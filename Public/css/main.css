@@ -140,8 +140,9 @@ html, body {
 .margin {
     margin-left: 31px !important;
 }
-.negMargin {
+.blogMargin {
     margin-left: -31px;
+    margin-right: 5%;
 }
 .paddingBottom {
     padding-bottom: 30px;

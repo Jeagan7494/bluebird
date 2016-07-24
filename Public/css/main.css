@@ -89,25 +89,25 @@ html, body {
 /*Footer*/
 
 .footerLink1 {
-    margin-right: 2%;
+    margin-right: 20%;
 }
 
 .footerLink2 {
     margin-right: 2%;
 }
 
-.footerText {
-    color: #000;
-    font-size: 1.5rem;
-    font-family: 'Source Sans Pro', sans-serif;
-    padding-bottom: 0px;
-}
-
 .footerTextBlue {
     color: #00AEEF;
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
-    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.footerText {
+    color: #000;
+    font-size: 1.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 0px;
 }
 
 .footerCopyright {

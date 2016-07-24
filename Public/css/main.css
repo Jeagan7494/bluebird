@@ -19,7 +19,7 @@ html, body {
     height: 250px;
 }
 
-.mainHeader {
+/*.mainHeader {
     height: 20rem;
     width: 100%;
     margin: 0 auto;
@@ -50,7 +50,7 @@ html, body {
     font-weight: 700;
     padding-left: 12.5rem;
     text-shadow: 1px 1px #000000;
-}
+}*/
 /*===========================NAVBAR==============================*/
 .nav.navbar-nav.links {
     width: 99%;
@@ -127,7 +127,6 @@ html, body {
     color: #000;
     font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
-    padding-left: 3%;
     margin-left: 2.5%;
 }
 

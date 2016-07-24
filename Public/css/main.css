@@ -95,13 +95,14 @@ html, body {
     margin-left: 31px !important;
 }*/
 
-.col-xs-12.zeroPadding {
-    padding-left: 0 !important;
+/*.col-xs-12.zeroPadding {
+    
 }
-
+*/
 .footerLink1 {
     /*margin-right: 3%;*/
-    padding-left: 2.5% !important;
+    margin-left: 2.5% !important;
+    padding-left: -.9375rem !important;
 
 }
 

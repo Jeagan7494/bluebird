@@ -84,6 +84,11 @@ html, body {
     color: #00AEEF;
     float: right;
 }
+
+.smallScreenFooter {
+    display: none;
+}
+
 }
 
 /*Footer*/
@@ -176,12 +181,12 @@ ul.nav {
  }
 
 .footerLink1 {
-    font-size: 1rem;
+    font-size: .75rem;
 
 }
 
 .footerLink2 {
-   
+    font-size: .75rem;
 }
 
 .footerTextBlue {
@@ -194,6 +199,10 @@ ul.nav {
 
 .footerCopyright {
     font-size: .75rem;
+}
+
+.fullScreenFooter {
+    display: none;
 }
 
 

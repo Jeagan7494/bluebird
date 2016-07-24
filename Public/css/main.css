@@ -173,7 +173,7 @@ html, body {
 @media (max-width: 33.9em) { ... }
 
 /*Small devices (landscape phones, less than 48em)*/
-@media (max-width: 47.9em) { 
+@media only screen and (max-width: 47.9em) { 
 
 ul.nav {
     display: flex;

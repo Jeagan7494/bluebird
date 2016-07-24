@@ -95,19 +95,23 @@ html, body {
     margin-left: 31px !important;
 }*/
 
-.col-xs-12.zeroPadding {
-        padding-left: 0 !important;
+/*.zeroPadding {
+    padding-left: 0 !important;
 
 }
 
 .footerLink1 {
-    /*margin-right: 3%;*/
+    margin-right: 3%;
     margin-left: 2.5% !important;
 
 }
 
 .footerLink2 {
     padding-left: 2.5%;
+}*/
+
+.container-fluid {
+    padding: 0 70px !important;
 }
 
 .footerTextBlue {
@@ -115,7 +119,7 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 0px;
-    padding-left: 2.5%;
+    /*padding-left: 2.5%;*/
 }
 
 .footerText {
@@ -123,7 +127,7 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 0px;
-    padding-left: 2.5%;
+    /*padding-left: 2.5%;*/
 }
 
 .footerCopyright {
@@ -131,7 +135,7 @@ html, body {
     font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
     padding-left: 3%;
-    margin-left: 2.5%;
+    /*margin-left: 2.5%;*/
 }
 
 /*============================home body================================

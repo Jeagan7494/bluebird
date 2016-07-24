@@ -104,9 +104,12 @@ html, body {
     margin-left: 36px !important;
 }*/
 
+
 .footerLink1 {
     /*margin-right: 3%;*/
     margin-left: 6.5% !important;
+    height: 24px;
+    width: 24px;
 
 }
 

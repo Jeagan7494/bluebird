@@ -91,13 +91,13 @@ html, body {
 /*.footerMargin {
     margin-left: 2% !important;
 }*/
-/*.footerLink1a {
-    margin-left: 31px !important;
-}*/
+.extraMargin {
+    margin-left: 31px;
+}
 
 .footerLink1 {
     /*margin-right: 3%;*/
-    margin-left: 31px;
+    margin-left: 16px;
 
 }
 

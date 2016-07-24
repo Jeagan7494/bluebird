@@ -95,9 +95,9 @@ html, body {
     margin-left: 31px !important;
 }*/
 
-/*.footerMargin {
-    padding-left: 16px;
-}*/
+.footerMargin {
+    padding-left: 15px;
+}
 
 .footerLink1 {
     /*margin-right: 3%;*/

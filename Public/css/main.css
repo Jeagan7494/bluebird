@@ -88,12 +88,16 @@ html, body {
 
 /*Footer*/
 
+.site-footer {
+    margin-left: 16px;
+}
+
 .footerLink1 {
     margin-right: 20%;
 }
 
 .footerLink2 {
-    margin-right: 2%;
+    margin-left: 2%;
 }
 
 .footerTextBlue {
@@ -112,7 +116,7 @@ html, body {
 
 .footerCopyright {
     color: #000;
-    font-size: .75rem;
+    font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
 }
 

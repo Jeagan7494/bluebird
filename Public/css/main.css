@@ -215,7 +215,8 @@ ul.nav {
 
 .smScreenBlogContact {
     
-    padding:  40px 0 40px 31px;
+    padding-top:  40px;
+    padding-bottom: 40px;
 }
 
 }

@@ -85,12 +85,8 @@ html, body {
     float: right;
 }
 
-.smallScreenFooter {
-    display: none;
-}
 
 }
-
 /*Footer*/
 
 /*.footerMargin {
@@ -104,19 +100,24 @@ html, body {
     margin-left: 36px !important;
 }*/
 
+.smallScreenFooter {
+    display: none;
+}
+
 
 .footerLink1 {
     /*margin-right: 3%;*/
-    margin-left: 6.5% !important;
+    /*margin-left: 6.5% !important;*/
 
 }
 .social-icon {
-    height: 24px;
-    width: 24px;
+    height: 40px;
+    width: 40px;
 }
 
 .footerLink2 {
     padding-left: 2.5%;
+    line-height: 40px;
 }
 
 .footerTextBlue {
@@ -208,6 +209,8 @@ ul.nav {
 
 .fullScreenFooter {
     display: none;
+}
+
 }
 
 

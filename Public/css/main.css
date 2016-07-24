@@ -91,9 +91,9 @@ html, body {
 /*.footerMargin {
     margin-left: 2% !important;
 }*/
-.extraMargin {
+/*.footerLink1a {
     margin-left: 31px !important;
-}
+}*/
 
 .footerLink1 {
     /*margin-right: 3%;*/
@@ -102,7 +102,7 @@ html, body {
 }
 
 .footerLink2 {
-    margin-left: 16px;
+    margin-left: 3%;
 }
 
 .footerTextBlue {
@@ -125,7 +125,7 @@ html, body {
     color: #000;
     font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;
-    margin-left: 31px;
+    margin-left: 2%
 }
 
 /*============================home body================================

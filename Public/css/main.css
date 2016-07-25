@@ -171,7 +171,7 @@ html, body {
     /*font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;*/
     margin-bottom: 0px;
-    padding-left: 31px;
+    /*padding-left: 31px;*/
 }
 
 .footerText {
@@ -179,21 +179,21 @@ html, body {
     /*font-size: 1.5rem;
     font-family: 'Source Sans Pro', sans-serif;*/
     margin-bottom: 0px;
-    padding-left: 31px;
+    /*padding-left: 31px;*/
 }
 
 .footerCopyright {
     color: #000;
     /*font-size: 1rem;
     font-family: 'Source Sans Pro', sans-serif;*/
-    margin-left: 31px;
+    /*margin-left: 31px;*/
 }
 
-.margin {
+/*.margin {
     margin-left: 31px !important;
-}
+}*/
 .blogMargin {
-    margin-left: -31px;
+    /*margin-left: -31px;*/
     margin-right: 5%;
 }
 .paddingBottom {

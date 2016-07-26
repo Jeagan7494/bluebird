@@ -172,6 +172,7 @@ a.navbar-brand {
 
 
 
+
 /*PAGES*/
 /*h1 {
     font-family: 'Georgia';
@@ -205,8 +206,8 @@ a.navbar-brand {
     margin-bottom: 0;
 }
 
-.picture {
-    max-height: 50px;
+.mainPics {
+    max-height: 379px;
 }
 }
 /*Footer*/

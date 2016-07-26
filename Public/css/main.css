@@ -296,6 +296,10 @@ ul.nav {
     padding-right: 30px;
 }
 
+.brandRight {
+    float: right!important;
+    position: relative;
+}
 
 
 }

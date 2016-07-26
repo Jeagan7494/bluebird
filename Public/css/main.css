@@ -71,6 +71,23 @@ html, body {
 }
 
 
+
+
+.blue {
+    color: #00AEEF;
+}
+
+.yellow {
+    color: #FFF200;
+}
+
+.black {
+    color: #231F20
+}
+
+.white {
+    color: #FFF;
+}
 /*.mainHeader {
     height: 20rem;
     width: 100%;
@@ -165,8 +182,9 @@ h1 {
 
 .symbol {
     font-family: 'Georgia';
-    font-size: 10px;
+    font-size: 15px;
     font-weight: normal;
+    vertical-align: bottom;
 }
 }
 /*Footer*/

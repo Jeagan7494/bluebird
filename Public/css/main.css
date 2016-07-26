@@ -137,6 +137,15 @@ html, body {
     float: right;
 }
 
+a.navbar-brand {
+    text-align: right;
+}
+
+.navbar-brand>img {
+    display: inline-block;
+    height: 15%;
+    width: 15%;
+}
 
 }
 /*Footer*/
@@ -233,7 +242,9 @@ html, body {
 /*====================Media Queries==============================*/
 
 /*Extra small devices (portrait phones, less than 34em)*/
-@media (max-width: 33.9em) { ... }
+@media (max-width: 33.9em) { 
+
+ }
 
 /*Small devices (landscape phones, less than 48em)*/
 @media only screen and (max-width: 47.9em) { 
@@ -279,6 +290,8 @@ ul.nav {
 .paddingRightBlog {
     padding-right: 30px;
 }
+
+
 
 }
 

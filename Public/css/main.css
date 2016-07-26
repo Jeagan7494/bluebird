@@ -209,6 +209,10 @@ a.navbar-brand {
 .mainPics {
     max-height: 379px;
 }
+
+div.no-gutter {
+    padding-right: 0px;
+}
 }
 /*Footer*/
 

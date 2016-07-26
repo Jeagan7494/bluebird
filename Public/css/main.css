@@ -147,6 +147,11 @@ a.navbar-brand {
     width: 15%;
 }
 
+.pull-xs-right {
+    float: right!important;
+    position: absolute;
+}
+
 }
 /*Footer*/
 

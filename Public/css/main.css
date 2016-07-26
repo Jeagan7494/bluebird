@@ -212,8 +212,7 @@ h1 {
 
 }
 .social-icon {
-    height: 40px;
-    width: 40px;
+    max-height: 35px;
 }
 
 .footerLink2 {
@@ -349,8 +348,7 @@ ul.nav {
 /*Medium devices (tablets, less than 62em)*/
 @media (max-width: 61.9em) { 
 .social-icon {
-    height: 30px;
-    width: 30px;
+    max-height: 30px;
 }
 
 h1 {

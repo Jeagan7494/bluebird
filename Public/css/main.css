@@ -160,8 +160,7 @@ a.navbar-brand {
 
 .navbar-brand>img {
     display: inline-block;
-    height: 15%;
-    width: 15%;
+    max-height: 20px;
 }
 
 /*.pull-xs-right {
@@ -206,6 +205,9 @@ a.navbar-brand {
     margin-bottom: 0;
 }
 
+.picture {
+    max-height: 50px;
+}
 }
 /*Footer*/
 

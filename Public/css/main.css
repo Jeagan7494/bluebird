@@ -199,6 +199,9 @@ a.navbar-brand {
     line-height: 2.5rem;
 }
 
+.zeroBottomMargin {
+    margin-bottom: 0;
+}
 
 }
 /*Footer*/

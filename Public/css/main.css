@@ -153,6 +153,22 @@ a.navbar-brand {
 }*/
 
 }
+
+
+
+/*PAGES*/
+h1 {
+    font-family: 'Georgia';
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.symbol {
+    font-family: 'Georgia';
+    font-size: 10px;
+    font-weight: normal;
+}
+}
 /*Footer*/
 
 /*.footerMargin {

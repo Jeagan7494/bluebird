@@ -243,10 +243,7 @@ a.navbar-brand {
 
 /*Extra small devices (portrait phones, less than 34em)*/
 @media (max-width: 33.9em) { 
-.social-icon {
-    height: 30px;
-    width: 30px;
-}
+
  }
 
 /*Small devices (landscape phones, less than 48em)*/
@@ -300,7 +297,12 @@ ul.nav {
 
 
 /*Medium devices (tablets, less than 62em)*/
-@media (max-width: 61.9em) { ... }
+@media (max-width: 61.9em) { 
+.social-icon {
+    height: 30px;
+    width: 30px;
+}
+}
 
 /*Large devices (desktops, less than 75em)*/
 @media (max-width: 74.9em) { ... }

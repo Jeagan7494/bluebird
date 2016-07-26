@@ -210,9 +210,14 @@ a.navbar-brand {
     max-height: 379px;
 }
 
-div.no-gutter {
+.noRightGutter {
     padding-right: 0px;
 }
+
+.topPadding {
+    padding-top: 15px;
+}
+
 }
 /*Footer*/
 

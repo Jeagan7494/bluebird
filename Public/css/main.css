@@ -204,7 +204,7 @@ h1 {
 /*a.footerLink1 {
     margin-left: 36px !important;
 }*/
-.site-footer {
+.site-footer>div {
     margin-left: 1%;
 }
 .footerLink1 {

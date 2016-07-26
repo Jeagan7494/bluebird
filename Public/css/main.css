@@ -205,7 +205,7 @@ h1 {
     margin-left: 36px !important;
 }*/
 .site-footer>div {
-    margin-left: 1%;
+    margin-left: 1% !important;
 }
 .footerLink1 {
     padding-right: 2%

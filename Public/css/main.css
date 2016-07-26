@@ -184,15 +184,17 @@ a.navbar-brand {
     font-family: 'Georgia';
     font-size: 1rem;
     font-weight: normal;
-    vertical-align: bottom;
+    vertical-align: bottom !important;
 }
 
-.headParagraph {
+.mainLayout {
     padding-top: 2%;
     margin-left: 1%;
+}
+.headParagraph {
     font-family: 'Georgia';
     font-size: 2.5rem;
-    font-weight: normal;
+    font-weight: lighter;
 }
 
 .topParagraph {

@@ -174,11 +174,11 @@ a.navbar-brand {
 
 
 /*PAGES*/
-h1 {
+/*h1 {
     font-family: 'Georgia';
     font-size: 2.5rem;
     font-weight: normal;
-}
+}*/
 
 .symbol {
     font-family: 'Georgia';
@@ -189,6 +189,9 @@ h1 {
 
 .headParagraph {
     margin-left: 1%;
+    font-family: 'Georgia';
+    font-size: 2.5rem;
+    font-weight: normal;
 }
 
 }

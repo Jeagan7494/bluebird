@@ -176,13 +176,13 @@ a.navbar-brand {
 /*PAGES*/
 h1 {
     font-family: 'Georgia';
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: normal;
 }
 
 .symbol {
     font-family: 'Georgia';
-    font-size: 15px;
+    font-size: 1rem;
     font-weight: normal;
     vertical-align: bottom;
 }
@@ -351,6 +351,19 @@ ul.nav {
 .social-icon {
     height: 30px;
     width: 30px;
+}
+
+h1 {
+    font-family: 'Georgia';
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.symbol {
+    font-family: 'Georgia';
+    font-size: .5rem;
+    font-weight: normal;
+    vertical-align: bottom;
 }
 }
 

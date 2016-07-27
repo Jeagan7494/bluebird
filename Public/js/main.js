@@ -35,6 +35,8 @@ angular.module('bluebirdApp')
 
         }
     ]);
+
+    
 angular.module('bluebirdApp').controller('mainController', ['$scope', '$http', function($scope, $http) {
     console.log('mainController loaded');
 

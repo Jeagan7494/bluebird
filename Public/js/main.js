@@ -54,7 +54,7 @@ angular.module('bluebirdApp').controller('mainController', ['$scope', '$http', f
         //    if (returnData.data.success) {
         //        window.location.href = "/contactSuccess";
         //    }
-        //}
+        }
     };
 
 

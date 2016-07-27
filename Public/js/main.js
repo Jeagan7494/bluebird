@@ -9,7 +9,7 @@ angular.module('bluebirdApp')
 
             $stateProvider
                 .state('/', {
-                    url: "/",
+                    url: "",
                     templateUrl: "html/views/home.html"
                 })
 

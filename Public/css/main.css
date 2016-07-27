@@ -235,6 +235,15 @@ a.navbar-brand {
 .site-footer>div {
     margin-left: 1% !important;
 }
+
+footer.hr {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
 .footerLink1 {
     padding-right: 2%
 

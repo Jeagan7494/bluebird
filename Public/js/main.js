@@ -10,22 +10,22 @@ angular.module('bluebirdApp')
             $stateProvider
                 .state('/main', {
                     url: "",
-                    templateUrl: "html/views/home.html"
+                    templateUrl: "html/views/work.html"
                 })
 
                 .state('work', {
                     url: "/work",
-                    templateUrl: "html/views/home.html"
+                    templateUrl: "html/views/work.html"
                 })
 
                 .state('our-story', {
                     url: "/our-story",
-                    templateUrl: "html/views/about.html"
+                    templateUrl: "html/views/story.html"
                 })
 
                 .state('what-we-do', {
                     url: "/what-we-do",
-                    templateUrl: "html/views/howto.html"
+                    templateUrl: "html/views/what.html"
                 })
 
                 .state('contact', {

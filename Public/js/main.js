@@ -8,44 +8,31 @@ angular.module('bluebirdApp')
             console.log('config loaded');
 
             $stateProvider
-                .state('', {
+                .state('/main', {
                     url: "",
                     templateUrl: "html/views/home.html"
                 })
 
-                .state('home', {
-                    url: "/home",
+                .state('work', {
+                    url: "/work",
                     templateUrl: "html/views/home.html"
                 })
 
-                .state('about', {
-                    url: "/about",
+                .state('our-story', {
+                    url: "/our-story",
                     templateUrl: "html/views/about.html"
                 })
 
-                .state('howto', {
-                    url: "/howto",
+                .state('what-we-do', {
+                    url: "/what-we-do",
                     templateUrl: "html/views/howto.html"
                 })
 
-                .state('locate', {
-                    url: "/locate",
+                .state('contact', {
+                    url: "/contact",
                     templateUrl: "html/views/construction.html"
                 })
 
-                .state('register', {
-                    url: "/register",
-                    templateUrl: "html/views/register.html"
-                })
-
-                .state('connect', {
-                    url: "/connect",
-                    templateUrl: "html/views/contact.html"
-                })
-                .state('disclaimer', {
-                    url: "/theLegalStuff",
-                    templateUrl: "html/views/disclaimer.html"
-                })
         }
     ]);
 

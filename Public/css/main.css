@@ -378,6 +378,10 @@ ul.nav {
     position: relative;
 }
 
+.topParagraph {
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+}
 
 }
 
@@ -388,17 +392,16 @@ ul.nav {
     max-height: 30px;
 }
 
-h1 {
-    font-family: 'Georgia';
-    font-size: 1.5rem;
-    font-weight: normal;
-}
-
 .symbol {
     font-family: 'Georgia';
     font-size: .5rem;
     font-weight: normal;
     vertical-align: bottom;
+}
+
+.topParagraph {
+    line-height: 2rem;
+    font-size: 2rem;
 }
 }
 

@@ -8,8 +8,8 @@ angular.module('bluebirdApp')
             console.log('config loaded');
 
             $stateProvider
-                .state('', {
-                    url: "",
+                .state('/', {
+                    url: "/",
                     templateUrl: "html/views/home.html"
                 })
 

@@ -30,7 +30,7 @@ angular.module('bluebirdApp')
 
                 .state('contact', {
                     url: "/contact",
-                    templateUrl: "html/views/construction.html"
+                    templateUrl: "html/views/contact.html"
                 })
 
         }

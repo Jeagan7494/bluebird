@@ -331,6 +331,31 @@ hr {
 
  }
 
+
+/*Medium devices (tablets, less than 62em)*/
+@media (max-width: 61.9em) { 
+.social-icon {
+    max-height: 30px;
+}
+
+.symbol {
+    font-family: 'Georgia';
+    font-size: .5rem;
+    font-weight: normal;
+    vertical-align: bottom;
+}
+
+.headParagraph {
+    font-family: 'Georgia';
+    font-size: 1.5rem;
+    font-weight: normal;
+    padding-bottom: 1%;
+    line-height: 1.5rem;
+}
+
+
+}
+
 /*Small devices (landscape phones, less than 48em)*/
 @media only screen and (max-width: 47.9em) { 
 
@@ -390,34 +415,3 @@ ul.nav {
 }
 
 }
-
-
-/*Medium devices (tablets, less than 62em)*/
-@media (max-width: 61.9em) { 
-.social-icon {
-    max-height: 30px;
-}
-
-.symbol {
-    font-family: 'Georgia';
-    font-size: .5rem;
-    font-weight: normal;
-    vertical-align: bottom;
-}
-
-.headParagraph {
-    font-family: 'Georgia';
-    font-size: 1.5rem;
-    font-weight: normal;
-    padding-bottom: 1%;
-    line-height: 1.5rem;
-}
-
-
-}
-
-/*Large devices (desktops, less than 75em)*/
-@media (max-width: 74.9em) { ... }
-
-/*Extra large devices (large desktops)*/
-/*No media query since the extra-large breakpoint has no upper bound on its width*/

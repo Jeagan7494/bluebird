@@ -381,9 +381,12 @@ ul.nav {
     position: relative;
 }
 
-.topParagraph {
-    line-height: 1.5rem;
-    font-size: 1.5rem;
+.headParagraph {
+    font-family: 'Georgia';
+    font-size: 1rem;
+    font-weight: normal;
+    padding-bottom: 1%;
+    line-height: 1rem;
 }
 
 }
@@ -402,10 +405,15 @@ ul.nav {
     vertical-align: bottom;
 }
 
-.topParagraph {
-    line-height: 2rem;
-    font-size: 2rem;
+.headParagraph {
+    font-family: 'Georgia';
+    font-size: 1.5rem;
+    font-weight: normal;
+    padding-bottom: 1%;
+    line-height: 1.5rem;
 }
+
+
 }
 
 /*Large devices (desktops, less than 75em)*/

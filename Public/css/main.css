@@ -352,6 +352,10 @@ hr {
     max-height: 30px;
 }
 
+.paddingRightBlog {
+    padding-right: 30px;
+}
+
 .symbol {
     font-family: 'Georgia';
     font-size: .5rem;
@@ -443,9 +447,7 @@ ul.nav {
     /*padding-left: 46px;
 }*/
 
-.paddingRightBlog {
-    padding-right: 30px;
-}
+
 
 .brandRight {
     float: right!important;

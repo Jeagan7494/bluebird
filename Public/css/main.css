@@ -207,12 +207,18 @@ a.navbar-brand {
 
 }
 
+.blueBackground {
+    background-color: #00AEEF;
+    padding-bottom: 30px;
+    padding-top: 30px;
+} 
+
 .valuesHeader {
     font-family: 'Georgia';
     font-weight: normal;
     font-size: 40px;
     padding-left: 40px;
-    padding-top: 30px;
+    
 }
 
 
@@ -251,9 +257,7 @@ a.navbar-brand {
     margin-bottom: 2%;
 }
 
-.blueBackground {
-    background-color: #00AEEF;
-}
+
 
 .noGutter {
     padding-left: 0px !important;

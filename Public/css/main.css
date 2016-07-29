@@ -398,6 +398,11 @@ ul.nav {
     flex-direction: column;
  }
 
+.navbar-brand>img {
+    display: inline-block;
+    max-height: 20px;
+}
+
 .social-icon {
     height: 30px;
     width: 30px;

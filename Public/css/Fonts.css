@@ -51,3 +51,12 @@
   font-weight: lighter;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Gotham Book';
+  src: url('gotham-book-webfont.eot');
+  src: url('gotham-book-webfont.woff') format('woff'),
+       url('gotham-book-webfont.svg#gotham-book-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -203,6 +203,13 @@ a.navbar-brand {
     line-height: 2.5rem;
 }
 
+.subParagraph {
+    font-family: 'Gotham Book';
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
 .zeroBottomMargin {
     margin-bottom: 0;
 }

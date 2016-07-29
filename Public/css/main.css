@@ -202,10 +202,6 @@ a.navbar-brand {
     padding-bottom: 1%;
 }
 
-.topParagraph {
-    line-height: 2.5rem;
-}
-
 .zeroBottomMargin {
     margin-bottom: 0;
 }
@@ -220,6 +216,14 @@ a.navbar-brand {
 
 .topPadding {
     padding-top: 15px;
+}
+
+.testimonialLink {
+    padding-left: 15px;
+}
+
+.yellowBackground {
+    background-color: #FFF200;
 }
 
 
@@ -351,6 +355,10 @@ hr {
     font-weight: normal;
     padding-bottom: 1%;
     line-height: 2rem;
+}
+
+.testimonialLink {
+
 }
 
 

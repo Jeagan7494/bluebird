@@ -219,12 +219,14 @@ a.navbar-brand {
 }
 
 .testimonialLink {
-    padding-left: 15px;
+    background-color: #FFF200;
+    padding: 10px 40px 10px 40px;
 }
 
-.yellowBackground {
-    background-color: #FFF200;
+.testimonialMargin {
+    margin-bottom: 2%;
 }
+
 
 
 /*Footer*/

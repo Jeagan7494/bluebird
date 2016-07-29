@@ -230,6 +230,14 @@ a.navbar-brand {
     margin-bottom: 2%;
 }
 
+.blueBackground {
+    background-color: #00AEEF;
+}
+
+.noGutter {
+    padding-left: 0px;
+    padding-right: 0px;
+}
 
 
 /*Footer*/

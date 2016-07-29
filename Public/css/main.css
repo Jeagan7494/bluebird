@@ -160,7 +160,7 @@ a.navbar-brand {
 
 .navbar-brand>img {
     display: inline-block;
-    max-height: 20px;
+    max-height: 30px;
 }
 
 /*.pull-xs-right {

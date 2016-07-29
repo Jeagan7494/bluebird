@@ -28,12 +28,12 @@ html, body {
     font-size: 14px;
 }
 
-.GeorgiaReg22 {
+/*.GeorgiaReg22 {
     font-family: 'Georgia';
     font-weight: normal;
     font-size: 22px;
 }
-
+*/
 
 /*.GothamBook18 {
     font-family: 'Gotham';
@@ -234,6 +234,16 @@ a.navbar-brand {
     list-style: none;
 }
 
+.leadershipText {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-family: 'Georgia';
+    font-weight: normal;
+    font-size: 22px;
+}
+
+
 .zeroBottomMargin {
     margin-bottom: 0;
 }
@@ -378,6 +388,13 @@ hr {
     padding-left: 20px;
 }
 
+.leadershipText {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+
 }
 
 /*Small devices (landscape phones, less than 48em)*/
@@ -449,6 +466,16 @@ ul.nav {
     margin-bottom: 3rem;
 }
 
-
-
+.valuesHeader {
+    font-size: 12px;
+    
 }
+
+.values {
+    font-size: 14px;
+}
+.leadershipText {
+    font-size: 18px;
+}
+
+

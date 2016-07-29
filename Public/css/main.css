@@ -11,7 +11,7 @@ html, body {
 .page-wrap {
     min-height: 100%;
     /* equal to footer height */
-    margin-bottom: -250px;
+    margin-bottom: -150px;
     overflow: auto;
 }
 .page-wrap:after {
@@ -19,7 +19,7 @@ html, body {
     display: block;
 }
 .site-footer, .page-wrap:after {
-    height: 250px;
+    height: 150px;
 }
 
 .GothamBook14 {
@@ -474,8 +474,9 @@ ul.nav {
 .values {
     font-size: 14px;
 }
+
 .leadershipText {
-    font-size: 18px;
+    font-size: 12px;
 }
 
 

@@ -221,6 +221,9 @@ a.navbar-brand {
 .testimonialLink {
     background-color: #FFF200;
     padding: 10px 40px 10px 40px;
+    font-family: 'Gotham';
+    font-weight: normal;
+    font-size: 18px;
 }
 
 .testimonialMargin {
@@ -360,7 +363,9 @@ hr {
 }
 
 .testimonialLink {
-
+    font-size: 9px;
+    padding: 5px 20px 5px 20px;
+    font-size: 9px;
 }
 
 

@@ -28,18 +28,24 @@ html, body {
     font-size: 14px;
 }
 
-.GothamBook18 {
-    font-family: 'Gotham';
+.valuesHeader {
+    font-family: 'Georgia';
     font-weight: normal;
-    font-size: 18px;
+    font-size: 40px;
 }
 
-.GothamBold48 {
-    font-family: 'Gotham';
+
+.values {
+    font-family: 'Gotham Bold';
     font-weight: bold;
     font-size: 48px;
 }
 
+/*.GothamBook18 {
+    font-family: 'Gotham';
+    font-weight: normal;
+    font-size: 18px;
+}
 .GothamLight14 {
     font-family: 'Gotham';
     font-weight: lighter;
@@ -68,7 +74,7 @@ html, body {
     font-family: 'Gotham';
     font-weight: normal;
     font-size: 11px;
-}
+}*/
 
 
 
@@ -321,42 +327,9 @@ hr {
     padding-bottom: 4%;
 }
 
-/*============================home body================================
-.thumbnail1 {
-    display: inline-block;
-    max-height: 250px;
-    max-width: 250px;
-    margin: 0 auto;
-
-}
-
-.thumbnail2 {
-    display: inline-block;
-    max-height: 250px;
-    max-width: 500px;
-    margin: 0 auto;
-}
-
-.longQuote {
-    border-radius: 2px;
-    border-bottom: 1px solid white;
-}
-
-.mainCollage{
-    padding-left: 15%;
-    padding-bottom: 10rem;
-    padding-top: 10rem;
-}
-
-/*============================About Page===============================*/
 
 
 /*====================Media Queries==============================*/
-
-/*Extra small devices (portrait phones, less than 34em)*/
-@media (max-width: 33.9em) { 
-
- }
 
 
 /*Medium devices (tablets, less than 62em)*/
@@ -457,6 +430,18 @@ ul.nav {
     font-size: 12px;
     padding-right: 0px;
     margin-bottom: 3rem;
+}
+
+.valuesHeader {
+    font-family: 'Georgia';
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.values {
+    font-family: 'Gotham Bold';
+    font-weight: bold;
+    font-size: 14px;
 }
 
 }

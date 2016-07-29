@@ -60,3 +60,12 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Gotham Bold';
+  src: url('gotham-bold-webfont.eot');
+  src: url('gotham-bold-webfont.woff') format('woff'),
+       url('gotham-bold-webfont.svg#gotham-bold-webfont') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}

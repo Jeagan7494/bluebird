@@ -28,18 +28,7 @@ html, body {
     font-size: 14px;
 }
 
-.valuesHeader {
-    font-family: 'Georgia';
-    font-weight: normal;
-    font-size: 40px;
-}
 
-
-.values {
-    font-family: 'Gotham Bold';
-    font-weight: bold;
-    font-size: 48px;
-}
 
 /*.GothamBook18 {
     font-family: 'Gotham';
@@ -218,6 +207,22 @@ a.navbar-brand {
 
 }
 
+.valuesHeader {
+    font-family: 'Georgia';
+    font-weight: normal;
+    font-size: 40px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+
+.values {
+    font-family: 'Gotham Bold';
+    font-weight: bold;
+    font-size: 48px;
+    list-style: none;
+}
+
 .zeroBottomMargin {
     margin-bottom: 0;
 }
@@ -258,16 +263,6 @@ a.navbar-brand {
 
 /*Footer*/
 
-/*.footerMargin {
-    margin-left: 2% !important;
-}*/
-/*.footerLink1a {
-    margin-left: 31px !important;
-}*/
-
-/*a.footerLink1 {
-    margin-left: 36px !important;
-}*/
 .site-footer>div {
     margin-left: 1% !important;
 }
@@ -360,6 +355,18 @@ hr {
     font-size: 9px;
 }
 
+.valuesHeader {
+    font-family: 'Georgia';
+    font-weight: normal;
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+.values {
+    font-family: 'Gotham Bold';
+    font-weight: bold;
+    font-size: 14px;
+}
 
 }
 
@@ -432,16 +439,6 @@ ul.nav {
     margin-bottom: 3rem;
 }
 
-.valuesHeader {
-    font-family: 'Georgia';
-    font-weight: normal;
-    font-size: 12px;
-}
 
-.values {
-    font-family: 'Gotham Bold';
-    font-weight: bold;
-    font-size: 14px;
-}
 
 }

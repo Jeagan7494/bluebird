@@ -268,6 +268,15 @@ a.navbar-brand {
 .smEmployeePic {
     margin-bottom: 8px;
 }
+
+.usIconPadding {
+    padding-top: 40px;
+}
+
+.usIcon {
+    max-height: 35px;
+}
+
 .zeroBottomMargin {
     margin-bottom: 0;
 }

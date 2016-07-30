@@ -243,9 +243,16 @@ a.navbar-brand {
     padding-bottom: 30px;
     font-family: 'Georgia';
     font-weight: normal;
+
+}
+.font22 {
+
     font-size: 22px;
 }
 
+.font40 {
+    font-size: 40px;
+}
 
 .zeroBottomMargin {
     margin-bottom: 0;
@@ -479,7 +486,7 @@ ul.nav {
     font-size: 14px;
 }
 
-.leadershipText {
+.font22 {
     font-size: 12px;
 }
 

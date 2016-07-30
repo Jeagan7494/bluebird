@@ -46,6 +46,13 @@ html, body {
     font-weight: normal;
     font-size: 18px;
 }
+
+.gothamBlack22 {
+    font-family: 'Gotham';
+    font-weight: normal;
+    font-size: 22px;
+}
+
 /*.GothamLight14 {
     font-family: 'Gotham';
     font-weight: lighter;
@@ -60,11 +67,7 @@ html, body {
 
 
 
-.GothamBlack22 {
-    font-family: 'Gotham';
-    font-weight: normal;
-    font-size: 22px;
-}
+
 
 .GothamBook11 {
     font-family: 'Gotham';

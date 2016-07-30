@@ -31,6 +31,10 @@ angular
                     url: "/employee",
                     templateUrl: "html/views/employee.html"
                 })
+                .state('testimonials', {
+                    url: "/testimonials",
+                    templateUrl: "html/views/testimonials.html"
+                })
         }
     ])
     .controller('mainController', ['$scope', '$http', function($scope, $http) {

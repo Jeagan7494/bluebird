@@ -432,6 +432,10 @@ hr {
     padding-bottom: 10px;
 }
 
+.smEmployeePic {
+    margin-bottom: 15px;
+}
+
 }
 
 /*Small devices (landscape phones, less than 48em)*/
@@ -511,8 +515,21 @@ ul.nav {
     line-height: 14px;
 }
 
+.georgia40 {
+    font-size: 25px;
+    line-height: 30px;
+}
+
 .georgia22 {
     font-size: 12px;
+}
+
+.columnLineHeight {
+    line-height: 16px;
+}
+
+.gothamBlack22 {
+    font-size: 16px;
 }
 
 

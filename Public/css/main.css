@@ -234,6 +234,7 @@ a.navbar-brand {
     font-size: 48px;
     list-style: none;
     padding-left: 20px;
+    line-height: 48px;
 }
 
 .leadershipText {

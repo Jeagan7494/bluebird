@@ -35,12 +35,18 @@ html, body {
 }
 */
 
-/*.GothamBook18 {
-    font-family: 'Gotham';
+.GothamBook18 {
+    font-family: 'Gotham Book';
     font-weight: normal;
     font-size: 18px;
 }
-.GothamLight14 {
+
+.GothamBlack18 {
+    font-family: 'Gotham Black';
+    font-weight: normal;
+    font-size: 18px;
+}
+/*.GothamLight14 {
     font-family: 'Gotham';
     font-weight: lighter;
     font-size: 14px;
@@ -52,11 +58,7 @@ html, body {
     font-size: 18px;
 }
 
-.GothamBlack18 {
-    font-family: 'Gotham';
-    font-weight: normal;
-    font-size: 18px;
-}
+
 
 .GothamBlack22 {
     font-family: 'Gotham';
@@ -218,14 +220,13 @@ a.navbar-brand {
     padding-top: 30px;
 } 
 
-.valuesHeader {
+.blueHeader {
     font-family: 'Georgia';
     font-weight: normal;
     font-size: 40px;
     padding-left: 40px;
     
 }
-
 
 .values {
     font-family: 'Gotham Bold';
@@ -263,7 +264,7 @@ a.navbar-brand {
 .testimonialLink {
     background-color: #FFF200;
     padding: 10px 40px 10px 40px;
-    font-family: 'Gotham';
+    font-family: 'Gotham Book';
     font-weight: normal;
     font-size: 18px;
 }
@@ -378,7 +379,7 @@ hr {
     font-size: 9px;
 }
 
-.valuesHeader {
+.blueHeader {
     font-family: 'Georgia';
     font-weight: normal;
     font-size: 20px;
@@ -468,7 +469,7 @@ ul.nav {
     margin-bottom: 3rem;
 }
 
-.valuesHeader {
+.blueHeader {
     font-size: 12px;
     
 }

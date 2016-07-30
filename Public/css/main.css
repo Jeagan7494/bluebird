@@ -23,7 +23,7 @@ html, body {
 }
 
 .GothamBook14 {
-    font-family: 'Gotham';
+    font-family: 'Gotham Book';
     font-weight: normal;
     font-size: 14px;
 }
@@ -48,9 +48,15 @@ html, body {
 }
 
 .gothamBlack22 {
-    font-family: 'Gotham';
+    font-family: 'Gotham Black';
     font-weight: normal;
     font-size: 22px;
+}
+
+.GothamLight18 {
+    font-family: 'Gotham Light';
+    font-weight: normal;
+    font-size: 18px;
 }
 
 /*.GothamLight14 {
@@ -58,16 +64,6 @@ html, body {
     font-weight: lighter;
     font-size: 14px;
 }
-
-.GothamLight18 {
-    font-family: 'Gotham';
-    font-weight: lighter;
-    font-size: 18px;
-}
-
-
-
-
 
 .GothamBook11 {
     font-family: 'Gotham';
@@ -246,7 +242,7 @@ a.navbar-brand {
     padding-bottom: 30px;
 }
 
-.nationalFirmText {
+.bottomParagraphDiv {
     padding-top: 40px;
     padding-bottom: 30px;
 }
@@ -269,6 +265,9 @@ a.navbar-brand {
 
 }
 
+.smEmployeePic {
+    margin-bottom: 8px;
+}
 .zeroBottomMargin {
     margin-bottom: 0;
 }

@@ -27,6 +27,10 @@ angular
                     url: "/cases",
                     templateUrl: "html/views/cases.html"
                 })
+                .state('employee', {
+                    url: "/employee",
+                    templateUrl: "html/views/employee.html"
+                })
         }
     ])
     .controller('mainController', ['$scope', '$http', function($scope, $http) {

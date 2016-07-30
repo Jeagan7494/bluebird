@@ -244,13 +244,13 @@ a.navbar-brand {
     padding-left: 40px;
     padding-top: 40px;
     padding-bottom: 30px;
-    
+}
+
 .nationalFirmText {
     padding-top: 40px;
     padding-bottom: 30px;
 }
 
-}
 .georgia22 {
     font-family: 'Georgia';
     font-weight: normal;
@@ -262,6 +262,11 @@ a.navbar-brand {
     font-weight: normal;
     font-size: 40px;
     line-height: 40px;
+}
+
+.columnLineHeight {
+ line-height: 16px;
+
 }
 
 .zeroBottomMargin {
